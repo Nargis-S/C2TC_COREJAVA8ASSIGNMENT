@@ -1,6 +1,7 @@
 package ASSIGNMENT2;
 
 public class CommissionDemo {
+	
 	    public static void main(String[] args) {
 	        // Create Student object
 	        Student student = new Student();
