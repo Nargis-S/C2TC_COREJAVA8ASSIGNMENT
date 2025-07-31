@@ -1,4 +1,4 @@
-package entityclassassignment1;
+package Assign1.EntityClass;
 
 public class Student {
     private int id;

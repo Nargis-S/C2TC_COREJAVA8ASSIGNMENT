@@ -1,4 +1,4 @@
-package ASSIGNMENT3;
+package Assign3.StaticAbstractFinal;
 
 public class Bank {
 

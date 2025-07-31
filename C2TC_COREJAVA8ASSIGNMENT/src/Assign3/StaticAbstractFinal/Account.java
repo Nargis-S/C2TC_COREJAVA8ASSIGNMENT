@@ -1,4 +1,4 @@
-package ASSIGNMENT3;
+package Assign3.StaticAbstractFinal;
 
 //2. Abstract part
 

@@ -1,4 +1,4 @@
-package ASSIGNMENT2;
+package Assign2.Constructor;
 	
 	import java.util.Scanner;
 

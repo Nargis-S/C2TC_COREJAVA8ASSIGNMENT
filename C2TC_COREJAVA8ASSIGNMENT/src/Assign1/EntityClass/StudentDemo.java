@@ -1,4 +1,4 @@
-package entityclassassignment1;
+package Assign1.EntityClass;
 
 public class StudentDemo {
     public static void main(String[] args) {

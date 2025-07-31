@@ -1,4 +1,4 @@
-package entityclassassignment2;
+package Assign1.EntityClass1;
 
 public class ProductDemo {
     public static void main(String[] args) {
